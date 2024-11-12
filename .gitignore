@@ -1,0 +1,10 @@
+﻿Library
+Logs
+Temp
+Library
+Logs
+obj
+.vs
+UnityEngine.UI.csproj
+Assembly-CSharp-Editor.csproj
+*.csproj
