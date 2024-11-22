@@ -8,3 +8,10 @@ obj
 UnityEngine.UI.csproj
 Assembly-CSharp-Editor.csproj
 *.csproj
+.idea/.idea.CatNotLikeCoding/.idea/encodings.xml
+.idea/.idea.CatNotLikeCoding/.idea/indexLayout.xml
+.idea/.idea.CatNotLikeCoding/.idea/vcs.xml
+Packages/packages-lock.json
+UserSettings/EditorUserSettings.asset
+UserSettings/Search.index
+CatNotLikeCoding.sln
